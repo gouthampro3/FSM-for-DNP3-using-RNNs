@@ -1,0 +1,6 @@
+torch
+numpy
+aalpy
+scapy
+pyshark
+crcmod
